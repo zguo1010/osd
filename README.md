@@ -1,5 +1,5 @@
 # Online Social Deception and Its Countermeasures
-This folder is for the survey paper: Online Social Deception and Its Countermeasures: A Survey.
+This folder is for the survey paper: "Online Social Deception and Its Countermeasures: A Survey", IEEE Access.
 
 Paper link is: <a href="https://ieeexplore.ieee.org/document/9306762"> https://ieeexplore.ieee.org/document/9306762</a>  
 
